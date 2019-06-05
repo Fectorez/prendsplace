@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.esgi.prendsplace2"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "prendsplace2",
+    "packageName": "com.esgi.prendsplace2",
+    "packageFolder": "com/esgi/prendsplace2",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTFhMWQ2NjUyOWI1OWMwYTM5MGE4MWYyM2VlYmUzODQyNzkzM2QyZjliMDNiZmU3N2Y1NjkyM2IzNjI5YzE4ZWE0ODU2YmFiMGIzMTA2OTE0MWQyMWZiNzVmMTY4M2I0ZWQ2YzcxNmNkNjJiOGFmYWJmODFhMzQ0ZmRiMzFmYzc=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
